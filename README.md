@@ -11,6 +11,7 @@
 
 # 信息推送
 - [安全流推送](https://i.hacking8.com)
+- [安全Wiki](https://www.sec-wiki.com/skill)
 
 # 应急响应笔记
 - [见相应目录](https://bypass007.github.io/Emergency-Response-Notes/)
