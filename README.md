@@ -1,4 +1,4 @@
-# sec-note
+# 安全学习笔记
 记录安全方面的笔记/工具/漏洞合集
 
 - [HACK学习-信息安全导航](https://index.tesla-space.com/)
@@ -9,7 +9,7 @@
 - [超详细的渗透测试思维导图 @浅蓝](https://github.com/iSafeBlue/Mind-Map)
 - [利用HOSTS碰撞突破边界](https://xz.aliyun.com/t/9590)
 
-# 渗透思路
+# 信息推送
 - [安全流推送](https://i.hacking8.com)
 
 # 漏洞库
