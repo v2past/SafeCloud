@@ -9,7 +9,8 @@
 - [超详细的渗透测试思维导图 @浅蓝](https://github.com/iSafeBlue/Mind-Map)
 - [利用HOSTS碰撞突破边界](https://xz.aliyun.com/t/9590)
 
-
+# 渗透思路
+- [安全流推送](https://i.hacking8.com)
 
 # 漏洞库
 - [乌云历史漏洞查询](http://wy.zone.ci/)
