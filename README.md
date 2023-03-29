@@ -53,6 +53,7 @@
 
 
 # 经验分享
+- [Web漏洞扫描神器Nikto使用指南](https://zhuanlan.zhihu.com/p/124246499)
 - [年轻人如何挖掘第一个RCE @漂亮鼠](https://mp.weixin.qq.com/s/3phgI8yaPns3Dx5oSkdeYg)
 
 
