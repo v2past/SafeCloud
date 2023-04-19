@@ -3,6 +3,8 @@
 
 - [HACK学习-信息安全导航](https://index.tesla-space.com/)
 - [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
+- [好用博客](https://www.infvie.com/category/dafety-attack-defense)
+
 
 # 渗透思路
 - [渗透测试☞经验/思路/想法/总结/笔记 @pen4uin](https://github.com/pen4uin/pentest-note)
