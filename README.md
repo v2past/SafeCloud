@@ -18,6 +18,9 @@
 # 应急响应笔记
 - [见相应目录](https://bypass007.github.io/Emergency-Response-Notes/)
 
+# 好用插件
+- [eznmap](https://github.com/Zer0-hex/eznmap)
+
 # 漏洞库
 - [乌云历史漏洞查询](http://wy.zone.ci/)
 - [乌云历史文章](https://github.com/jiji262/wooyun_articles)
