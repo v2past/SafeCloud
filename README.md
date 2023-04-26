@@ -26,6 +26,7 @@
 # 好用插件
 - [eznmap](https://github.com/Zer0-hex/eznmap)
 - [百度学习资料](https://pan.baidu.com/s/1zZ_ug4Bu6DYjJ_3wNXRL7w?pwd=rmu7)
+- [虾越](https://github.com/smxiazi/xia_Yue)
 
 # 漏洞库
 - [乌云历史漏洞查询](http://wy.zone.ci/)
