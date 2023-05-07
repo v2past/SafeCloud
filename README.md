@@ -62,16 +62,18 @@
 - [程序分析、web安全 @panda](https://www.cnpanda.net/)
 - [jas502n](https://github.com/jas502n?tab=repositories)
 
-
-
 # 经验分享
 - [Web漏洞扫描神器Nikto使用指南](https://zhuanlan.zhihu.com/p/124246499)
 - [年轻人如何挖掘第一个RCE @漂亮鼠](https://mp.weixin.qq.com/s/3phgI8yaPns3Dx5oSkdeYg)
-
-
 
 # 面经
 - [安服面经☞渗透测试/代码审计/安全研究 @pen4uin](https://github.com/reidmu/Security_Service_Interviews)
 - [渗透测试工程师面试大全 @backlion](https://github.com/awake1t/HackReport/blob/main/03-%E5%B9%B2%E8%B4%A7%E7%B3%BB%E5%88%97/%E9%9D%A2%E7%BB%8F/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%9D%A2%E8%AF%95%E9%A2%98%E5%A4%A7%E5%85%A8.pdf)
 - [Sec-Interview-4-2023 @vvmdx](https://github.com/vvmdx/Sec-Interview-4-2023)
 
+# 基础&工具
+- [小林 x 图解计算机基础](https://github.com/xiaolincoder/CS-Base)
+- [Mars资产](https://github.com/TideSec/Mars)
+- [多客户端通信](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)
+- [泛微OA某版本的SQL代码执行漏洞](https://github.com/Wrin9/weaverOA_sql_RCE)
+- [谷歌插件superSearchPlus](https://github.com/dark-kingA/superSearchPlus)
