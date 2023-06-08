@@ -4,6 +4,8 @@
 - [HACK学习-信息安全导航](https://index.tesla-space.com/)
 - [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
 - [好用博客](https://www.infvie.com/category/dafety-attack-defense)
+- [博客-xshell密码破解](https://cn-sec.com/archives/1787909.html)
+- [红队资料集锦](https://cn-sec.com/archives/70285.html)
 
 
 # 渗透思路
