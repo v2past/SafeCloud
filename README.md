@@ -6,6 +6,7 @@
 - [好用博客](https://www.infvie.com/category/dafety-attack-defense)
 - [博客-xshell密码破解](https://cn-sec.com/archives/1787909.html)
 - [红队资料集锦](https://cn-sec.com/archives/70285.html)
+- [在线安全工具](http://tool.cn-sec.com/)
 
 
 # 渗透思路
