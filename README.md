@@ -31,6 +31,8 @@
 - [Hack The Box - Vaccine](https://mi3aka.eu.org/htb-vaccine/)
 - [Hack The Box - Vaccine](https://www.mytechonit.com/post/vaccine)
 - [linpeas](https://cloud.tencent.com/developer/article/1841447)
+- [msf快速指南](https://cn-sec.com/archives/553446.html)
+- [sql注入](https://cn-sec.com/archives/tag/injection)
 
 
 # 好用插件
@@ -52,6 +54,7 @@
 
 
 # 安全博客论坛
+- [CNSEC](https://cn-sec.com/archives/1786697.html)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - [信息安全知识库](https://www.vipread.com/)
 - [狼组安全团队公开知识库](https://wiki.wgpsec.org/knowledge/)
