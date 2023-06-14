@@ -26,6 +26,12 @@
 # 应急响应笔记
 - [见相应目录](https://bypass007.github.io/Emergency-Response-Notes/)
 
+# 靶场教程
+- [Hack The Box - Vaccine](https://www.mytechonit.com/post/vaccine)
+- [Hack The Box - Vaccine](https://mi3aka.eu.org/htb-vaccine/)
+- [Hack The Box - Vaccine](https://www.mytechonit.com/post/vaccine)
+
+
 # 好用插件
 - [eznmap](https://github.com/Zer0-hex/eznmap)
 - [百度学习资料](https://pan.baidu.com/s/1zZ_ug4Bu6DYjJ_3wNXRL7w?pwd=rmu7)
@@ -79,4 +85,7 @@
 - [Mars资产](https://github.com/TideSec/Mars)
 - [多客户端通信](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)
 - [泛微OA某版本的SQL代码执行漏洞](https://github.com/Wrin9/weaverOA_sql_RCE)
+- [谷歌插件superSearchPlus](https://github.com/dark-kingA/superSearchPlus)
+- [GTFOBins 提权](https://gtfobins.github.io/#vi)
+- [LinPEAS提权](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
 - [谷歌插件superSearchPlus](https://github.com/dark-kingA/superSearchPlus)
