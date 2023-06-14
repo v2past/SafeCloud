@@ -30,6 +30,7 @@
 - [Hack The Box - Vaccine](https://www.mytechonit.com/post/vaccine)
 - [Hack The Box - Vaccine](https://mi3aka.eu.org/htb-vaccine/)
 - [Hack The Box - Vaccine](https://www.mytechonit.com/post/vaccine)
+- [linpeas](https://cloud.tencent.com/developer/article/1841447)
 
 
 # 好用插件
