@@ -7,6 +7,8 @@
 - [博客-xshell密码破解](https://cn-sec.com/archives/1787909.html)
 - [红队资料集锦](https://cn-sec.com/archives/70285.html)
 - [在线安全工具](http://tool.cn-sec.com/)
+- [mysql注入天书](https://xz.aliyun.com/t/385)
+- [全网最全sqli-labs通关攻略(建议收藏)](https://cloud.tencent.com/developer/article/1906116)
 
 
 # 渗透思路
