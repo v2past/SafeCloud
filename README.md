@@ -9,6 +9,8 @@
 - [在线安全工具](http://tool.cn-sec.com/)
 - [mysql注入天书](https://xz.aliyun.com/t/385)
 - [全网最全sqli-labs通关攻略(建议收藏)](https://cloud.tencent.com/developer/article/1906116)
+- [红队学习笔记](https://www.yuque.com/shiqing-jomvy/nweo8b/mmkxo5psmgd24sx1?singleDoc=)
+- [Linux提权](https://3wapp.github.io/Hack/linux%E6%8F%90%E6%9D%83.html)
 
 
 # 渗透思路
@@ -43,6 +45,7 @@
 - [虾越](https://github.com/smxiazi/xia_Yue)
 
 # 漏洞库
+- [工具汇聚](https://start.me/p/GE7JQb/osint)
 - [乌云历史漏洞查询](http://wy.zone.ci/)
 - [乌云历史文章](https://github.com/jiji262/wooyun_articles)
 - [阿里云漏洞库](https://47.101.61.67/)
@@ -95,3 +98,9 @@
 - [GTFOBins 提权](https://gtfobins.github.io/#vi)
 - [LinPEAS提权](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
 - [谷歌插件superSearchPlus](https://github.com/dark-kingA/superSearchPlus)
+- [在线子域名扫描](http://z.zcjun.com/?http=ucloud.cn)
+
+# 护网流程
+- [一文读懂护网](https://www.wangan.com/p/7fy7f8469a50b658)
+- [护网流程](https://zhuanlan.zhihu.com/p/536702187)
+- [护网流程](https://www.henganlanxun.com/?company/22.html)
