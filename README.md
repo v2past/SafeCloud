@@ -99,6 +99,7 @@
 - [LinPEAS提权](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
 - [谷歌插件superSearchPlus](https://github.com/dark-kingA/superSearchPlus)
 - [在线子域名扫描](http://z.zcjun.com/?http=ucloud.cn)
+- [ctf平台](https://www.ctfhub.com/#/user/register)
 
 # 护网流程
 - [一文读懂护网](https://www.wangan.com/p/7fy7f8469a50b658)
