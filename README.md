@@ -21,7 +21,7 @@
 # 信息推送
 - [安全流推送](https://i.hacking8.com)
 - [安全Wiki](https://www.sec-wiki.com/skill)
-
+- [2022长亭内部攻防演习视频资料流出](https://www.bilibili.com/read/cv17703355/?spm_id_from=333.999.0.0)
 # Burp Suite
 - [M1安装](https://lanyundev.com/posts/1a93ec55)
 - [简单入门](https://www.bilibili.com/video/BV11L4y17791/?vd_source=24dd5fb1f74ddad3b3d11b40950314fb)
